@@ -1,7 +1,7 @@
 Hi 👋 I am Abdella Mahmoud.
 
-![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
-
+[![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
+](https://www.canva.com/design/DAGdb5FjOG8/bh4zaGaTsLlh280wTfpCsw/edit)
 •⁠  ⁠I’m a DevOps engineer, Toronto Canada.
 •⁠  ⁠I’m currently interested in DevOps, Cloud and AI
 •⁠  ⁠I’m currently exploring the Cloud space.
