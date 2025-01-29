@@ -6,7 +6,9 @@ Hi 👋 I am Abdella Mahmoud.
 
 
 •⁠  ⁠I’m a DevOps engineer, Toronto Canada.
+
 •⁠  ⁠I’m currently interested in Cloud and AI
+
 •⁠  ⁠I’m currently exploring the Cloud space and obtaining cloud practionr.
 
 •⁠  ⁠📫 How to reach me: Abdellamahmoud98@gmail.com
