@@ -1,7 +1,7 @@
 Hi 👋 I am Abdella Mahmoud.
 
-[[![Black Modern Personal LinkedIn Banner (1)](https://user-images.githubusercontent.com/60136666/160201273-8061d56b-59e3-4661-a152-0d81300fbfd0.png)
-](https://www.canva.com/design/DAGdb5FjOG8/bh4zaGaTsLlh280wTfpCsw/edit)](https://www.canva.com/design/DAGdb5FjOG8/bh4zaGaTsLlh280wTfpCsw/edit)
+![Lilac Purple Colorful Neon Bright Bold Cheerful Brand Business Card](https://github.com/user-attachments/assets/20278304-7703-4012-b0ad-fca18fe2a7ab)
+
 
 •⁠  ⁠I’m a DevOps engineer, Toronto Canada.
 •⁠  ⁠I’m currently interested in Cloud and AI
