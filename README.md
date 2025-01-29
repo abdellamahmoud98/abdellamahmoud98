@@ -1,6 +1,6 @@
 Hi 👋 I am Abdella Mahmoud.
 
-![Lilac Purple Colorful Neon Bright Bold Cheerful Brand Business Card](https://github.com/user-attachments/assets/20278304-7703-4012-b0ad-fca18fe2a7ab)
+<img width="1023" alt="Screenshot 2025-01-29 at 9 17 11 AM" src="https://github.com/user-attachments/assets/9dd4dd95-ab21-4854-98f6-ddc24f3fd3ae" />
 
 
 •⁠  ⁠I’m a DevOps engineer, Toronto Canada.
